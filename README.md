@@ -16,4 +16,3 @@ User can put in the requirements of their password. The default value is 0.
 Once the requirements are put in, the user can either make their own password
 and check if it passes the requirements, or they can request the program to
 create a password that meets the requirements for them.
-*/
